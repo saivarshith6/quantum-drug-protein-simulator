@@ -127,12 +127,6 @@ quantum-drug-protein-simulator/
 
 ---
 
-## 📄 License
-
-MIT License — free to use and modify.
-
----
-
 ## 👤 Author
 
 **Sai Varshith** — [GitHub](https://github.com/saivarshith6)
