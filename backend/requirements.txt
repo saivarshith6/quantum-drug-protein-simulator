@@ -1,0 +1,9 @@
+flask
+flask-cors
+numpy
+scipy
+requests
+pillow
+rdkit
+qiskit
+qiskit-aer
